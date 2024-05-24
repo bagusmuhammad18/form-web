@@ -27,6 +27,10 @@ git clone https://github.com/bagusmuhammad18/form-web.git
 
 5. If all fields are valid, the form data will be stored in the browser's localStorage and you will be redirected to the result page (`result.html`).
 
+## Deployment
+
+This project has been deployed and can be accessed online at https://bagus-form-web.netlify.app/. Feel free to visit the deployed site to see the form.
+
 ## Technologies Used
 
 - HTML5
